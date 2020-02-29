@@ -272,9 +272,9 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Sitecore.Foundation.Serialization\Sitecore.Foundation.Serialization.csproj">
+    <ProjectReference Include="..\..\..\..\Sitecore.Foundation.Serialization\Oshyn.BitsPls.Foundation.Serialization.csproj">
       <Project>{640a69db-881b-4503-965a-07c5091bef6f}</Project>
-      <Name>Sitecore.Foundation.Serialization</Name>
+      <Name>Oshyn.BitsPls.Foundation.Serialization</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

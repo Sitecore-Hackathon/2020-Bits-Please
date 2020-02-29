@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29709.97
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{17DD5718-6E13-4F2C-9738-B410396D4552}"
 EndProject
@@ -35,7 +35,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oshyn.BitsPls.Project.Hacka
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{F9C72C2A-777F-4D32-B87E-E4A3CE939E39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Serialization", "Sitecore.Foundation.Serialization\Sitecore.Foundation.Serialization.csproj", "{640A69DB-881B-4503-965A-07C5091BEF6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oshyn.BitsPls.Foundation.Serialization", "Sitecore.Foundation.Serialization\Oshyn.BitsPls.Foundation.Serialization.csproj", "{640A69DB-881B-4503-965A-07C5091BEF6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{E7AA71A5-50C9-4405-9CBB-5A78D3C73DA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,7 @@ Global
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D} = {0874D200-1815-4840-9F63-275BDD7D053F}
 		{F9C72C2A-777F-4D32-B87E-E4A3CE939E39} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
 		{640A69DB-881B-4503-965A-07C5091BEF6F} = {F9C72C2A-777F-4D32-B87E-E4A3CE939E39}
+		{E7AA71A5-50C9-4405-9CBB-5A78D3C73DA9} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
