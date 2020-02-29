@@ -33,6 +33,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SitecoreHackathon", "Siteco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oshyn.BitsPls.Project.HackathonSite", "src\Project\SitecoreHackathon\website\Oshyn.BitsPls.Project.HackathonSite.csproj", "{D662B8FB-5484-40E1-9FCC-FB9959FD603D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{B4BD88B8-FEDD-4C16-ACA0-2F166350D3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oshyn.BitsPls.Foundation.Serialization", "src\Foundation\Serialization\code\Oshyn.BitsPls.Foundation.Serialization.csproj", "{AA42D775-0698-49BA-BCE3-0BA6641EF420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA42D775-0698-49BA-BCE3-0BA6641EF420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA42D775-0698-49BA-BCE3-0BA6641EF420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA42D775-0698-49BA-BCE3-0BA6641EF420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA42D775-0698-49BA-BCE3-0BA6641EF420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,8 @@ Global
 		{D27C83D2-2EAF-4E44-A1ED-2B3C2EBB5854} = {DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}
 		{228B1C3D-CA1A-4262-938D-4DE29BAC44D4} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D} = {228B1C3D-CA1A-4262-938D-4DE29BAC44D4}
+		{B4BD88B8-FEDD-4C16-ACA0-2F166350D3CA} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{AA42D775-0698-49BA-BCE3-0BA6641EF420} = {B4BD88B8-FEDD-4C16-ACA0-2F166350D3CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
