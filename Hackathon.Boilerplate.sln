@@ -33,6 +33,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{0874
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oshyn.BitsPls.Project.HackathonSite", "src\Project\SitecoreHackathon\website\Oshyn.BitsPls.Project.HackathonSite.csproj", "{D662B8FB-5484-40E1-9FCC-FB9959FD603D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Serialization", "Serialization", "{F9C72C2A-777F-4D32-B87E-E4A3CE939E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Foundation.Serialization", "Sitecore.Foundation.Serialization\Sitecore.Foundation.Serialization.csproj", "{640A69DB-881B-4503-965A-07C5091BEF6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640A69DB-881B-4503-965A-07C5091BEF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640A69DB-881B-4503-965A-07C5091BEF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640A69DB-881B-4503-965A-07C5091BEF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640A69DB-881B-4503-965A-07C5091BEF6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,8 @@ Global
 		{D27C83D2-2EAF-4E44-A1ED-2B3C2EBB5854} = {DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}
 		{0874D200-1815-4840-9F63-275BDD7D053F} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
 		{D662B8FB-5484-40E1-9FCC-FB9959FD603D} = {0874D200-1815-4840-9F63-275BDD7D053F}
+		{F9C72C2A-777F-4D32-B87E-E4A3CE939E39} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{640A69DB-881B-4503-965A-07C5091BEF6F} = {F9C72C2A-777F-4D32-B87E-E4A3CE939E39}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
