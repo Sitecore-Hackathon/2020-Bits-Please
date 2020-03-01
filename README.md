@@ -18,3 +18,6 @@ The judges will have the list of all the team participants and will be able to r
 ##Twitter Feed Module:
 
 This module will show the twitter feed of the module representing the hashtags needed for it. It will be displayed with the number of tweets the editor wants to display. This should be controlled by the editors and therefore can add or delete if they think is necessary. 
+
+Video Submission can be found on this channel, video called Bits Please Sc Hackathon 2020:
+https://www.youtube.com/channel/UCnpV2e5MSw-ELHsMun5HzoQ
